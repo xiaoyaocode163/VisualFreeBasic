@@ -1,4 +1,4 @@
 Merge into one zip.BAT
-unzip files£º#VFB5.5.53.ZIP
+unzip filesÂ£Âº#VFB5.5.53.ZIP
 
-copy /B VisualFreeBasic5.53.zip.001 + VisualFreeBasic5.53.zip.002 + VisualFreeBasic5.53.zip.003 + VisualFreeBasic5.53.zip.004 + VisualFreeBasic5.53.zip.005 + VisualFreeBasic5.53.zip.006 + VisualFreeBasic5.53.zip.007 + VisualFreeBasic5.53.zip.008 #VFB5.5.53.ZIP
+copy /B VisualFreeBasic5.5.7.zip.001 + VisualFreeBasic5.5.7.zip.002 + VisualFreeBasic5.5.7.zip.003 + VisualFreeBasic5.5.7.zip.004 + VisualFreeBasic5.5.7.zip.005 + VisualFreeBasic5.5.7.zip.006 + VisualFreeBasic5.5.7.zip.007 + VisualFreeBasic5.5.7.zip.008 #VFB5.5.7.ZIP
