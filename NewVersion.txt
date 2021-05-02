@@ -1,0 +1,13 @@
+5.5.5
+Fixed the problem that when the minimum value of the scroll bar control is set to a negative number, the negative value becomes the maximum value when scrolling.
+Fix the window centering function of the control. The selected control is centered separately, and the selected control should be centered in the entire group.
+Fixed the problem that Hscroll control cannot be compiled when the main window is in Chinese.
+Fix the problem that the focus frame is not displayed in the window editing when the code and window editing are split.
+Added side and bottom, in the code editing state, you can choose to hide in the view menu, or click the code text of the code design button to switch the display.
+Added a new mouse wizard template, you can use this to copy the script recorded by [Yongfang Mouse Wizard] to directly generate the software.
+Added a ruler display in the edit area of ​​the window
+Added start group homepage, which is convenient for operation, and the homepage cannot be closed.
+Optimization Switch to window editing to display the window faster.
+Optimization Code function positioning (the current function name is displayed at the top when the code is edited) is changed to delay in real time. Keep dragging the selection code up and down without changing the card.
+Optimization When pasting a control, if it encounters an array control with the same name, it is directly judged as a control array and no longer asks whether to create a control array.
+Optimization Opening the same project after opening multiple VFBs will be prevented from opening.
