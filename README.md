@@ -1,5 +1,7 @@
 New version 5.5.6, 2021-5-8
 
+## For better speed,pls view [google drive](https://drive.google.com/drive/folders/1HgpnHn6dNhbtBlHM0PPK9VNJVGt5V5K0?usp=sharing)
+
 VisualFreeBasic,vb6,vb7
 http://www.yfvb.com/soft-48.htm
 BBS FILE
