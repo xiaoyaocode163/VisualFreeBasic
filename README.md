@@ -5,7 +5,10 @@ New version 5.8.8 data:2023-3-6
 VisualFreeBasic,vb6,vb7
 http://www.yfvb.com/soft-48.htm
 BBS FILE
-(99) New IDE:vfb(Visual Freebasic)Like vb6,vb7,Update 2021-1-21 - freebasic.net
+
+https://www.freebasic.net/forum
+
+(99) New IDE:vfb(Visual Freebasic)Like vb6,vb7, freebasic.net
 https://www.freebasic.net/forum/viewtopic.php?f=8&t=28522
 
 (english is in the end )
