@@ -1,0 +1,1 @@
+copy /B VisualFreeBasic.zip.001 + VisualFreeBasic.zip.002 + VisualFreeBasic.zip.003 + VisualFreeBasic.zip.004 + VisualFreeBasic.zip.005 + VisualFreeBasic.zip.006 + VisualFreeBasic.zip.007 #VisualFreeBasic5.8.11.zip
