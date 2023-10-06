@@ -1,4 +1,4 @@
-New version 5.8.8 data:2023-3-6
+New version 5.8.11 2023-7-6
 
 ## For better speed,pls view [google drive](https://drive.google.com/drive/folders/1HgpnHn6dNhbtBlHM0PPK9VNJVGt5V5K0?usp=sharing)
 
@@ -25,21 +25,21 @@ The project folder contains a large number of example questions collected and or
 What can VisualFreeBasic5 do?
 
 Production of 64-bit or 32-bit application software (.exe), dynamic library (.dll), static library (.a) for WINDOWS system
-The software produced runs on WIN PE (micro system, U disk system), XP to WIN10 full range of operating systems, and runs perfectly
+制作的软件运行在WIN PE（微系统、U盘系统）、XP到WIN10全系列操作系统上，完美运行
 
-What is FreeBASIC?
+什么是 FreeBASIC？
 
-FreeBASIC is a free / open source (GPL) BASIC compiler for Microsoft Windows, DOS and Linux.
+FreeBASIC 是一个适用于 Microsoft Windows、DOS 和 Linux 的免费/开源 (GPL) BASIC 编译器。
 
-FreeBASIC is a self-hosted compiler that uses the GNU binutils programming tool as a backend and can generate consoles, graphics / GUI executables, dynamic and static libraries. FreeBASIC fully supports the use of the C library and has partial C library support. This allows programmers to use and create libraries in C and many other languages. It supports C-style preprocessors, capable of handling multi-line macros, conditional compilation and file inclusion.
+FreeBASIC 是一个自托管编译器，使用 GNU binutils 编程工具作为后端，可以生成控制台、图形/GUI 可执行文件、动态和静态库。FreeBASIC完全支持C库的使用，并且有部分C库支持。这使得程序员可以使用 C 语言和许多其他语言来使用和创建库。它支持 C 风格的预处理器，能够处理多行宏、条件编译和文件包含。
 
-The origin of VisualFreeBasic5
+VisualFreeBasic5的由来
 
-For more than ten years since the birth of FreeBASIC, its IDE has been in the state of a code editor, and there is no automatic processing. Except for senior programming experts, novices have no way to start, and they simply cannot know where to start. Until 2015, the FireFly software developed by American Paul Squez appeared, which greatly simplified the FB programming, so that novices can also write software with FB.
+FreeBASIC诞生十多年来，它的IDE一直处于代码编辑器的状态，并没有自动处理。除了资深的编程高手之外，新手无从下手，根本不知道从哪里开始。直到2015年，美国人Paul Squez开发的FireFly软件出现，大大简化了FB编程，让新手也可以用FB来编写软件。
 
-Although FireFly has brought great progress to the FB IDE, many of them are unsatisfactory and really difficult to use. Therefore, at the end of 2016, Yongfang started to patch FireFly for more than 2 years, because there was no source code, only Use DLL combined with plug-in technology to repair. Researching FireFly has also gradually accumulated a lot of experience as an IDE.
+虽然FireFly给FB IDE带来了很大的进步，但其中很多都不尽如人意，确实很难用。因此，2016年底，永芳开始给FireFly打补丁，时间长达2年多，因为没有源代码，只能使用DLL结合插件技术来修复。研究FireFly也逐渐积累了很多作为IDE的经验。
 
-FireFly 3.X has been patched and changed for more than 2 years. It is very mature. It is named VisualFreeBasic 4.X, but because it has no IDE source code, it cannot be improved and added better functions. At the beginning, I wrote VFB5 with VFB4, after 5 months (with experience and imitation, and using a lot of code written for FireFly before, it was written in a short time. If nothing, because Yongfang wrote it, It is expected to be at least 1 year), a stable beta version was released, and VisualFreeBasic5 was born. Programming is endless, life is endless, and improvements are endless. VisualFreeBasic will get better and better.
+FireFly 3.X已经修补和改变了2年多了。它非常成熟。它被命名为VisualFreeBasic 4.X，但由于它没有IDE源代码，因此无法对其进行改进和添加更好的功能。一开始我用VFB4写了VFB5，经过5个月（有经验和模仿，而且用了很多之前为FireFly写的代码，没多久就写好了。如果没什么，因为永芳写的，预计至少1年），稳定的测试版发布，VisualFreeBasic5诞生。编程是无止境的，生活是无止境的，改进也是无止境的。VisualFreeBasic 会变得越来越好。
 
 Many people will question? FireFly 3.X hasn't been updated for so many years? Yes, no update, because FireFly was developed with PowerBASIC instead of FreeBASIC. Paul Squith wanted to develop with FreeBASIC. Since 2017, he has developed software called WinFBE, and it is open source, but the development efficiency is too low. , 3 years later, this software still looks like a semi-finished product, and is only suitable for masters to play, novices can not play at all, and it seriously deviates from the original FireFly way.
 
